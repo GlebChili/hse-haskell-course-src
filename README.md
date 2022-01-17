@@ -57,6 +57,7 @@
 8. [A lecture course on type inference by Vitaly Bragilevsky, Computer Science Club (in Russian)](https://compsciclub.ru/courses/2019-spring/6.423-types/)
 9. [Vladislav Zavialov. Introduction to GUI programming in Haskell](https://www.youtube.com/watch?v=k1aq8ikO-8Q)
 10. [Simon Marlow. Parallel and concurrent programming in Haskell](https://www.youtube.com/watch?v=lqG3mURwUxo)
+11. [Playlist of lectures and seminars from fall 2021](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qy07-ZWYIiLIUEjV61G6E_)
 
 ### Guidelines
 
